@@ -3,6 +3,8 @@
 *.exe~
 *.dll
 *.dylib
+*.dev
+*derfrr
 
 # Test binary, build with `go test -c`
 *.test
